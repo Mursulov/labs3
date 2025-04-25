@@ -1,0 +1,7 @@
+/home/mursulov/lab03/_build/CMakeFiles/print.dir
+/home/mursulov/lab03/_build/CMakeFiles/edit_cache.dir
+/home/mursulov/lab03/_build/CMakeFiles/rebuild_cache.dir
+/home/mursulov/lab03/_build/CMakeFiles/list_install_components.dir
+/home/mursulov/lab03/_build/CMakeFiles/install.dir
+/home/mursulov/lab03/_build/CMakeFiles/install/local.dir
+/home/mursulov/lab03/_build/CMakeFiles/install/strip.dir
