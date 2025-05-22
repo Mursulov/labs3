@@ -7,5 +7,5 @@ target_include_directories(formatter_ex PUBLIC
     ${CMAKE_CURRENT_SOURCE_DIR}
     ${CMAKE_CURRENT_SOURCE_DIR}/../formatter_lib
 )
-add_subdirectory(../formatter_lib ${CMAKE_BINARY_DIR}/formatter)
-target_link_libraries(formatter_ex formatter)
+cmake_policy(SET CMP0079 NEW)  
+target_link_libraries(formatter_ex PRIVATE formatter)

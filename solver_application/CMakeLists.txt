@@ -5,8 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Подключаем библиотеки
-add_subdirectory(../formatter_ex_lib ${CMAKE_BINARY_DIR}/formatter_ex)
-add_subdirectory(../solver_lib ${CMAKE_BINARY_DIR}/solver_lib)
+
 
 # Создаем исполняемый файл
 add_executable(solver equation.cpp)
